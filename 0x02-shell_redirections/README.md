@@ -1,1 +1,1 @@
-print hello world in standard output
+ a script that displays a confused smiley
